@@ -10,7 +10,7 @@ Parses choosen or all conversations from VK account.
 
 ## Install
 > **yarn add vk-io**
-# Or
+### Or
 > **npm install vk-io**
 
 ## Run
