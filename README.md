@@ -9,7 +9,9 @@ Parses choosen or all conversations from VK account.
 - "display" - "files" if you want save parsed messages to .txt files, "console" if you want to display parsed messages in console, "both" - if you want both.
 
 ## Install
-> **npm install vk-io** or > **yarn add vk-io**
+> **yarn add vk-io**
+# Or
+> **npm install vk-io**
 
 ## Run
 > **node dumper.js**
