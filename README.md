@@ -1,4 +1,4 @@
-# VK Messages Dumper
+# VK Conversations Dumper
 Parses choosen or all conversations from VK account and dumps it to files/console.
 
 ## Configuration (config.json)
